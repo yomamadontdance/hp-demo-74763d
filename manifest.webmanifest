@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "HR Pulse",
-  "short_name": "HR Pulse",
-  "description": "Concept demo, sample data",
+  "name": "Mando",
+  "short_name": "Mando",
+  "description": "Mando Partners Limited (HK) · confidential demo, sample data",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
